@@ -13,5 +13,5 @@ spec:
         run: argocd-kube
     spec:
       containers:
-      - image: simhoon/docker-repo:cc7d147
+      - image: simhoon/docker-repo:b90b6f5
         name: argocd-kube
